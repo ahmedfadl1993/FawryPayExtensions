@@ -7,12 +7,16 @@
 //
 
 import UIKit
+import FawryPayExtensions
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        var image = UIImageView()
+        
+        image.circleImageView(borderColor: .red, borderWidth: 5.5)
     }
 
     override func didReceiveMemoryWarning() {

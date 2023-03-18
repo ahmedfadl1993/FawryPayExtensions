@@ -1,51 +1,16 @@
 PODS:
-  - Alamofire (5.6.4)
   - FawryPayExtensions (0.1.0)
-  - IQKeyboardManagerSwift (6.5.11)
-  - MBRadioButton (1.4)
-  - RxSwift (6.5.0)
-  - SDWebImage (5.15.5):
-    - SDWebImage/Core (= 5.15.5)
-  - SDWebImage/Core (5.15.5)
-  - SVProgressHUD (2.2.5)
-  - SwiftMessages (9.0.6):
-    - SwiftMessages/App (= 9.0.6)
-  - SwiftMessages/App (9.0.6)
 
 DEPENDENCIES:
-  - Alamofire
   - FawryPayExtensions (from `../`)
-  - IQKeyboardManagerSwift
-  - MBRadioButton
-  - RxSwift
-  - SDWebImage
-  - SVProgressHUD
-  - SwiftMessages
-
-SPEC REPOS:
-  trunk:
-    - Alamofire
-    - IQKeyboardManagerSwift
-    - MBRadioButton
-    - RxSwift
-    - SDWebImage
-    - SVProgressHUD
-    - SwiftMessages
 
 EXTERNAL SOURCES:
   FawryPayExtensions:
     :path: "../"
 
 SPEC CHECKSUMS:
-  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
-  FawryPayExtensions: cc65e7c34070bb0fd889a00ab5f0b591b5eda66a
-  IQKeyboardManagerSwift: c7955c0bdbf7b2eb29bb7daaa44e3d90f55a9a85
-  MBRadioButton: dcf111c9bb633d4cf6e83200d804af6e025033c8
-  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
-  SDWebImage: fd7e1a22f00303e058058278639bf6196ee431fe
-  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
-  SwiftMessages: f0c7ef4705a570ad6c5e208b611f4333e660ed92
+  FawryPayExtensions: 25a3d8cc7e201be2a3e36dc862acaa1fd711e300
 
-PODFILE CHECKSUM: fbb240a6714574ee5e36287800e1f626963dbc52
+PODFILE CHECKSUM: 1e1f67a8c5babfccd129081755459364d1ec1be0
 
 COCOAPODS: 1.11.3

@@ -1,5 +1,5 @@
 import XCTest
-import FawryPayExtensions
+//import FawryPayExtensions
 
 class Tests: XCTestCase {
     

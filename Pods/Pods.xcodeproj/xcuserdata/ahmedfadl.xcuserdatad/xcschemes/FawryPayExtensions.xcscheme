@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "4C44CF9352BAD7522C2E7C5DFA43EA16"
-               BuildableName = "FawryPayExtensions"
+               BuildableName = "FawryPayExtensions.framework"
                BlueprintName = "FawryPayExtensions"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>

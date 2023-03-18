@@ -8,13 +8,13 @@ target 'FawryPayExtensions_Example' do
   target 'FawryPayExtensions_Tests' do
     inherit! :search_paths
 
-    pod 'Alamofire'
-    pod 'SDWebImage'
-    pod 'IQKeyboardManagerSwift'
-    pod 'SwiftMessages'
-    pod 'SVProgressHUD'
-    pod 'RxSwift'
-    pod 'MBRadioButton'
+#    pod 'Alamofire'
+#    pod 'SDWebImage'
+#    pod 'IQKeyboardManagerSwift'
+#    pod 'SwiftMessages'
+#    pod 'SVProgressHUD'
+#    pod 'RxSwift'
+#    pod 'MBRadioButton'
     
   end
 end

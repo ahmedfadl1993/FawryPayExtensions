@@ -1,0 +1,22 @@
+{
+  "name": "FawryPayExtensions",
+  "version": "0.1.0",
+  "summary": "A short description of FawryPayExtensions.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ahmedfadl1993/FawryPayExtensions",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ahmedfadl1993": "ahmed.fadl@fawry.com"
+  },
+  "source": {
+    "git": "https://github.com/ahmedfadl1993/FawryPayExtensions.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "FawryPayExtensions/Sources/**/*"
+}

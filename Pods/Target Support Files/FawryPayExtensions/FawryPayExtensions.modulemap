@@ -1,0 +1,6 @@
+framework module FawryPayExtensions {
+  umbrella header "FawryPayExtensions-umbrella.h"
+
+  export *
+  module * { export * }
+}
